@@ -22,6 +22,7 @@ These tables are joined to perform end-to-end sales analysis.
 Dataset: Pizza Sales Dataset
 
 📊 Business Questions Solved
+
 🔹 Basic Analysis
 1. Total number of orders placed
 2. Total revenue generated from pizza sales
